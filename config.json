@@ -1,0 +1,10 @@
+{
+  "min_price": 0.2,
+  "max_price": 20,
+  "approach_pct": 3,
+  "min_session_volume": 100000,
+  "min_gain_pct": 5,
+  "max_candidates": 20,
+  "max_data_age_seconds": 180,
+  "watchlist": []
+}
